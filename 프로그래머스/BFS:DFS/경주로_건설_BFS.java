@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class 경주로_건설 {
+public class 경주로_건설_BFS {
 
     private static class Entity {
         int y;
