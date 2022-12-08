@@ -1,3 +1,5 @@
+package 경주로_건설;
+
 import java.util.Arrays;
 
 public class 경주로_건설_DFS {
