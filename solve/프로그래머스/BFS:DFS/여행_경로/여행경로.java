@@ -1,3 +1,5 @@
+package 여행_경로;
+
 import java.util.*;
 
 /**
