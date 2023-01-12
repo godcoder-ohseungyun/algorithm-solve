@@ -43,7 +43,7 @@ public class 완전_탐색_효율_시계_맞추기 {
             return;
         }
 
-        for (int i = 0; i < 4; i++) {
+        for(int i = 0; i < 4; i++) {
             push(button, clock);
             pushButton(button + 1, sum+i, clock.clone()); //깊은 복사 필수 : 취소 작업 없어도 됨
         }
@@ -67,4 +67,8 @@ public class 완전_탐색_효율_시계_맞추기 {
         clock[clockNumber] = 3;
     }
 
+    private boolean allClear(){
+        //todo: 구현
+        return true;
+    }
 }
