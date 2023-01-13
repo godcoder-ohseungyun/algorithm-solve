@@ -1,4 +1,4 @@
-package PS_기초.무식하게_풀기;
+package PS_기초._1_무식하게_풀기;
 
 import java.util.Arrays;
 
@@ -26,7 +26,7 @@ import java.util.Arrays;
  * - 최대 10명임으로 다음과 같다.
  * - 9 * 7 * 5 * . . * 1 (첫번째 사람이 짝을 고르는 경우의 수 9, 두번째 사람이 짝을 고르는 경우의 수 7 ...)
  */
-public class 완전_탐색_소풍 {
+public class 탐색_규칙_정하기_심화_소풍 {
 
     boolean[] ch;
     boolean[][] friends;

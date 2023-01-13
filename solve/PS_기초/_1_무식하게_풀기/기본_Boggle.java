@@ -1,4 +1,4 @@
-package PS_기초.무식하게_풀기;
+package PS_기초._1_무식하게_풀기;
 
 import java.util.Scanner;
 
@@ -26,7 +26,7 @@ import java.util.Scanner;
  * - 각 노드에서 8갈래로 재귀 호출하며, 뻗어 나아간다.
  * - 단어 길이가 N이면 N-1번 반복한다 (N번째 단어를 만나면 종료 조건에 걸림으로 재귀 중지이기 때문)
  */
-public class 완전_탐색_Boggle {
+public class 기본_Boggle {
 
     int[] dx = {0,1,1,1,0,-1,-1,-1};
     int[] dy = {-1,-1,0,1,1,1,0,-1};

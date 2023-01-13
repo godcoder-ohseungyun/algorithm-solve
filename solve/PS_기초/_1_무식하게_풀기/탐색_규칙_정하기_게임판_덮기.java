@@ -1,6 +1,4 @@
-package PS_기초.무식하게_풀기;
-
-import java.util.List;
+package PS_기초._1_무식하게_풀기;
 
 /**
  * 이 문제는 규칙을 규정해야한다
@@ -29,7 +27,7 @@ import java.util.List;
  * 모든 흰칸이 채워진 경우 == 채워지지 않은 흰칸을 못찾은 경우
  *
  */
-public class 완전_탐색_게임판_덮기 {
+public class 탐색_규칙_정하기_게임판_덮기 {
 
     int H,W;
     int[][][] block = {
