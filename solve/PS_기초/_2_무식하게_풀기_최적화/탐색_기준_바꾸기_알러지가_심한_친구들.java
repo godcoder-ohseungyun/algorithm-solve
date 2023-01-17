@@ -1,4 +1,4 @@
-package _2_무식하게_풀기_최적화;
+package PS_기초._2_무식하게_풀기_최적화;
 
 import java.util.HashMap;
 import java.util.LinkedList;
