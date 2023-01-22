@@ -3,7 +3,7 @@ package PS_기초._3_DFS_BFS_그래프_탐색.DFS;
 import java.util.ArrayList;
 
 /**
- * 경우의 수를 그래프 자료구조로 표현할 때, 보편적인 '정점'과 '간선'을 정의하는 스테레오타입을 깨부셔볼 필요가 있다
+ * "경우의 수를 그래프 자료구조로 표현할 때, 보편적인 '정점'과 '간선'을 정의하는 스테레오타입을 깨부셔볼 필요가 있다"
  *
  * 이 문제는 정점과 간선의 개념을 치환하는 아이디어에서 출발해야한다
  *
@@ -93,6 +93,7 @@ public class 정점과_간선_치환_단어_제한_끝말_잇기 {
 
             if(!edge.isEmpty()){
                 for(String word : edge) {
+                    //visited ch
                     if (!answer.contains(word)) {
                         answer.add(word);
                         dfs(next,level+1);
