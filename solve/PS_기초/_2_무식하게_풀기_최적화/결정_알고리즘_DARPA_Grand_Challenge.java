@@ -44,6 +44,7 @@ public class 결정_알고리즘_DARPA_Grand_Challenge {
         }
     }
 
+    //결정 알고리즘으로 예상한 답을 추적하며, DFS를 호출합니다
     public void solve(){
         int l = 0;
         int r = candidate_results.length;
