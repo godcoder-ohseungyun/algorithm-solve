@@ -1,4 +1,4 @@
-package 프로그래머스.백트래킹.조합;
+package 연습문제_프로그래머스.백트래킹.조합;
 
 import java.util.ArrayList;
 import java.util.List;

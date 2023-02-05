@@ -1,6 +1,4 @@
-package 프로그래머스.백트래킹.조합;
-
-import 프로그래머스.백트래킹.순열.순열;
+package 연습문제_프로그래머스.백트래킹.조합;
 
 public class Main {
     public static void main(String[] args) {

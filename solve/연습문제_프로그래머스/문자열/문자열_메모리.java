@@ -1,4 +1,4 @@
-package 프로그래머스.문자열;
+package 연습문제_프로그래머스.문자열;
 
 public class 문자열_메모리 {
     public static void main(String[] args) {

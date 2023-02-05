@@ -1,8 +1,4 @@
-package 프로그래머스.백트래킹.순열;
-
-import 프로그래머스.백트래킹.부분_집합.부분_집합1;
-import 프로그래머스.백트래킹.부분_집합.부분_집합2;
-import 프로그래머스.백트래킹.부분_집합.부분_집합3;
+package 연습문제_프로그래머스.백트래킹.순열;
 
 public class Main {
     public static void main(String[] args) {

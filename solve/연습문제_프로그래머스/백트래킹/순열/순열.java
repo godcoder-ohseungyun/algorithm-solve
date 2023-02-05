@@ -1,4 +1,4 @@
-package 프로그래머스.백트래킹.순열;
+package 연습문제_프로그래머스.백트래킹.순열;
 
 import java.util.ArrayList;
 import java.util.List;
