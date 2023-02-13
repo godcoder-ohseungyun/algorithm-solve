@@ -1,4 +1,4 @@
-package 연습문제_프로그래머스.완전탐색;
+package 연습문제_프로그래머스.완탐_아님;
 
 import java.util.Arrays;
 import java.util.LinkedList;
